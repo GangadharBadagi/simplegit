@@ -1,2 +1,0 @@
-This is my first git project file which I added.
-First file added to see changes
